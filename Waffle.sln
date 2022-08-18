@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaffleCLI", "WaffleCLI\WaffleCLI.csproj", "{624836EF-2428-4FC8-84A5-DD9EA38986BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaffleAPI", "WaffleAPI\WaffleAPI.csproj", "{63A17AAC-4945-42DF-AFED-6052E84D20F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{624836EF-2428-4FC8-84A5-DD9EA38986BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624836EF-2428-4FC8-84A5-DD9EA38986BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624836EF-2428-4FC8-84A5-DD9EA38986BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624836EF-2428-4FC8-84A5-DD9EA38986BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A17AAC-4945-42DF-AFED-6052E84D20F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A17AAC-4945-42DF-AFED-6052E84D20F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A17AAC-4945-42DF-AFED-6052E84D20F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A17AAC-4945-42DF-AFED-6052E84D20F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83A7F5C9-FEE5-4193-ADE3-92B2BE1B5E2D}
+	EndGlobalSection
+EndGlobal
